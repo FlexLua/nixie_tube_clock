@@ -1,4 +1,4 @@
-# GPS辉光管时钟
+# GPS Nixie Tube Clock
 
 
 
