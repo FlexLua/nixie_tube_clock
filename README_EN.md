@@ -10,7 +10,7 @@
 
 ## Preface
 
-This article open sources the FlexLua low-code microcontroller technology, eliminating the need for complex microcontroller C language development. Even beginners can easily develop various feature-rich, stable, and reliable IoT hardware with zero threshold using FlexLua. For more learning tutorials, please refer to the FlexLua official website (flexlua.com).
+This open-source project is based on FlexLua low-code microcontroller technology, eliminating the need for complex microcontroller C language development. Even beginners can easily develop various feature-rich, stable, and reliable IoT hardware with zero threshold using FlexLua. For more learning tutorials, please refer to the FlexLua official website (flexlua.com).
 
 ## 1. Function Introduction
 
